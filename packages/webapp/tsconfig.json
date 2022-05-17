@@ -1,0 +1,24 @@
+{
+    "extends": "../../tsconfig.json",
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["./src/*"],
+            "@commons/*": ["../commons/src/*"]
+        }
+    },
+    "include": [
+        "./src/**/*.js",
+        "./src/**/*.jsx",
+        "./src/**/*.ts",
+        "./src/**/*.d.ts",
+        "./src/**/*.tsx",
+        "./src/**/*.vue",
+        "../commons/**/*.js",
+        "../commons/**/*.jsx",
+        "../commons/**/*.ts",
+        "../commons/**/*.d.ts",
+        "../commons/**/*.tsx",
+        "../commons/**/*.vue"
+    ]
+}

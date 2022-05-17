@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.variable.css';
+
+.ant-btn > .ant-btn-loading-icon:only-child .anticon {
+    padding-right: 10px;
+    padding-left: 10px;
+}
