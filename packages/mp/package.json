@@ -23,18 +23,18 @@
         "dev:quickapp": "npm run build:quickapp -- --watch"
     },
     "dependencies": {
-        "@tarojs/components": "^3.4.9",
-        "@tarojs/runtime": "^3.4.9",
-        "@tarojs/taro": "^3.4.9",
-        "@tarojs/react": "^3.4.9"
+        "@tarojs/components": "^3.4.10",
+        "@tarojs/runtime": "^3.4.10",
+        "@tarojs/taro": "^3.4.10",
+        "@tarojs/react": "^3.4.10"
     },
     "devDependencies": {
-        "@types/webpack-env": "^1.16.4",
-        "@tarojs/mini-runner": "^3.4.9",
-        "@tarojs/webpack-runner": "^3.4.9",
-        "babel-preset-taro": "^3.4.9",
-        "eslint-config-taro": "^3.4.9",
-        "stylelint": "^14.8.2",
-        "typescript": "^4.6.4"
+        "@types/webpack-env": "^1.17.0",
+        "@tarojs/mini-runner": "^3.4.10",
+        "@tarojs/webpack-runner": "^3.4.10",
+        "babel-preset-taro": "^3.4.10",
+        "eslint-config-taro": "^3.4.10",
+        "stylelint": "^14.8.4",
+        "typescript": "^4.7.2"
     }
 }
