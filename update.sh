@@ -31,6 +31,3 @@ rm -rf node_modules
 ncu -u
 #
 npm install
-#
-# lerna clean --yes
-# lerna bootstrap
